@@ -43,7 +43,7 @@ jupyter-client
 jupyter-core
 jupyterlab-pygments
 jupyterlab-widgets
-Keras==2.4.3
+Keras
 keras-nightly
 Keras-Preprocessing
 kiwisolver
@@ -92,11 +92,11 @@ Send2Trash
 six
 smmap
 streamlit==0.80.0
-tensorboard<2.2.0
+tensorboard
 tensorboard-data-server
 tensorboard-plugin-wit
-tensorflow==2.1.0
-tensorflow-estimator<2.2.0
+tensorflow
+tensorflow-estimator
 termcolor
 terminado
 testpath
