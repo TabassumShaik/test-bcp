@@ -2,7 +2,7 @@ import keras
 from PIL import Image, ImageOps
 import numpy as np
 import streamlit as st
-import tensorflow.compat.v1 as tf
+import tensorflow.compat.v2 as tf
 tf.disable_v2_behavior()
 
 st.title("Breast Cancer Prediction")
