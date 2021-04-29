@@ -2,5 +2,5 @@ numpy==1.16.6
 streamlit==0.80.0
 pillow
 keras
-tensorflow==2.2
+tensorflow==2.1.0
 tornado>=6.1
