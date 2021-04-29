@@ -2,5 +2,5 @@ streamlit==0.80.0
 numpy==1.19.5
 keras_nightly==2.5.0.dev2021032900
 keras
-Pillow==8.2.0
+Pillow==8.2
 tensorflow
