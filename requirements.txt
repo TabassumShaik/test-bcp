@@ -1,3 +1,4 @@
+python=3.9.4
 Keras==2.4.3
 numpy==1.19.5
 pandas==1.2.4
