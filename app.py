@@ -1,9 +1,9 @@
-import keras
+import tensorflow as tf
+from tensorflow import keras
 from PIL import Image, ImageOps
 import numpy as np
 import streamlit as st
-import tensorflow.compat.v2 as tf
-tf.disable_v2_behavior()
+
 
 st.title("Breast Cancer Prediction")
 st.header("Upload a image for classification as Cancer or No-Cancer")
